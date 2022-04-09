@@ -31,7 +31,7 @@ Matlab version R2017a or higher.
 ## References
 If you use part of this code consider citing:
 
-[1] Fuhg, Jan Niklas, and Nikolaos Bouklas. "On physics-informed data-driven isotropic and anisotropic constitutive models through probabilistic machine learning and space-filling sampling." arXiv preprint arXiv:2109.11028 (2021).
+[1] Fuhg, Jan Niklas, and Nikolaos Bouklas. "On physics-informed data-driven isotropic and anisotropic constitutive models through probabilistic machine learning and space-filling sampling." Computer Methods in Applied Mechanics and Engineering 394 (2022): 114915.
 
 
 ## License
